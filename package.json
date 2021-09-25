@@ -1,6 +1,6 @@
 {
   "name": "@parrotjs/rc-hook-usebreakpoint",
-  "version": "0.0.3",
+  "version": "0.0.1",
   "description": "",
   "main": "dist/parrotreacthookusebreakpoint.cjs.js",
   "module": "dist/parrotreacthookusebreakpoint.esm.js",
